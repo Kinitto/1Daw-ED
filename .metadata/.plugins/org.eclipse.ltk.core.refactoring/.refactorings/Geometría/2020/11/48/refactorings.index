@@ -1,0 +1,4 @@
+1606391093311	Rename local variable 'numero'
+1606391150719	Extract constant 'PI'
+1606391662088	Extract method 'perimetro'
+1606391731272	Extract method 'superficie'
